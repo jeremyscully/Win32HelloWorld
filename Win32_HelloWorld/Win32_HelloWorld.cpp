@@ -3,7 +3,7 @@
 #include <iostream>
 #include "stdafx.h"
 int main(){
-	std::cout << "Hello, World.  Just another change to output\n";
+	std::cout << "Hello, World.  Test new web hook.\n";
 	system("PAUSE");
 }
 
